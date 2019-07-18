@@ -23,7 +23,7 @@ Receives messages from a Queue (by ARN) and displays them
 
 
 # Test
-![alt_text](https://github.com/wosunkwo/SqsQueue/blob/master/assests/Screen%20Shot%202019-07-18%20at%2012.45.30%20PM.png)\
+![alt_text](https://github.com/wosunkwo/SqsQueue/blob/master/assests/Screen%20Shot%202019-07-18%20at%2012.45.30%20PM.png)
 
 # Code
 [Receiver](https://github.com/wosunkwo/SqsQueue/blob/master/src/main/java/SqsQueue/SqsReceive.java)
