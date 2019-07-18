@@ -27,4 +27,5 @@ Receives messages from a Queue (by ARN) and displays them
 
 # Code
 [Receiver](https://github.com/wosunkwo/SqsQueue/blob/master/src/main/java/SqsQueue/SqsReceive.java)
+
 [Sender](https://github.com/wosunkwo/SqsQueue/blob/master/src/main/java/SqsQueue/SqsSend.java)
